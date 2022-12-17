@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Szh0ZSp5r70PfS9jBvnPmJ99yhC7Q/X/Jndn5rVRQCiqZkh2qv7a7BzX1P51/JegGcogpVLbGB5bQUgUxlsPMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlado\\OneDrive\\Рабочий стол\\web\\lab13\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
